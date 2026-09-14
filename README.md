@@ -4,4 +4,4 @@
 
 技术栈（SpringBoot、MySQL、Redis... 后面写到哪更新到哪）
 
-本地启动教程：qwq
+本地启动教程：qwq  qaq 
