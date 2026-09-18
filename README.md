@@ -23,3 +23,8 @@
 1. 在 MySQL 中执行 `sql` 目录下的建表语句。
 2. 修改 `application.properties` 中的数据库账号密码。
 3. 运行 `ShortLinkDemoApplication.java`。
+## 开发记录
+-[点击查看排查记录(TroubleSolution.md)](./troublesolution.md)
+
+##
+-2026.9.18完成基本生成与跳转
